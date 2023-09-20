@@ -1,6 +1,8 @@
 /* eslint-disable no-unused-vars */
 import Avatar from '../img/eu.jpg';
 import '../styles/sidebar.sass';
+import InfoContainer from './InfoContainer';
+import Social from './Social';
 
 const Sidebar = () => {
   return (
@@ -8,8 +10,8 @@ const Sidebar = () => {
       <img src={Avatar} alt="Luiz S. Oliveira" />
       <p>imagem</p>
       <p className="title">Desenvolvedor</p>
-      <p>redes sociais</p>
-      <p>informações de contato</p>
+      <Social />
+      <InfoContainer />
       <a href="" className="btn">Download currículo</a>
     </aside>
   )
