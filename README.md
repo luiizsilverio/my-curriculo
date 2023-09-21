@@ -1,8 +1,23 @@
-# React + Vite
+# MY-CURRICULO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação desenvolvida durante o vídeo [PROJETO DE REACT E SASS PARA O SEU PORTFÓLIO - INTEGRAÇÃO DE REACT COM SASS](https://www.youtube.com/watch?v=5h4vMtBlQQU), no canal do Youtube do Matheus Battisti. <br />
+Para rodar a aplicação, clique [AQUI](https://luiizsilverio.github.io/my-curriculo/). <br />
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React + Vite
+- React-Icons
+- SASS
+
+## :car: Iniciando a aplicação
+```bash
+$ git clone https://github.com/luiizsilverio/my-curriculo
+$ cd my-curriculo
+$ npm install
+$ npm run dev
+```
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-s-de-oliveira-6b6067210)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiiz.silverio@gmail.com)
