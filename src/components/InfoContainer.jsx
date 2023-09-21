@@ -8,7 +8,7 @@ const InfoContainer = () => {
         <AiFillPhone id="phone-icon" />
         <div>
           <h3>Telefone</h3>
-          <p>(19)99999-9999</p>
+          <p>(19) 99999-9999</p>
         </div>
       </div>
       <div className="info-card">
